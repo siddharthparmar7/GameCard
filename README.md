@@ -18,3 +18,7 @@ Open http://localhost:3000 to view it in the browser.
 #### Dependencies
 
 - Material UI
+
+#### Author
+
+Sid Parmar [LinkedIn](www.linkedin.com/in/siddharth-parmar-a901a075)
